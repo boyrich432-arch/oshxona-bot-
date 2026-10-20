@@ -1,0 +1,14 @@
+{
+  "name": "oshxona-bot",
+  "version": "1.0.0",
+  "main": "order-flow.js",
+  "scripts": {
+    "start": "node order-flow.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
